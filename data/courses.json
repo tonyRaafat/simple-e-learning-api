@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to Computer Science",
+        "content": "This course covers the fundamentals of computer science, including programming concepts, algorithms, and data structures.",
+        "departmentId": 1
+    },
+    {
+        "id": 2,
+        "name": "NodeJS",
+        "content": "This course explores advanced topics in API development using NodeJs",
+        "departmentId": 2
+    },
+    {
+        "id": 3,
+        "name": "ReactJS",
+        "content": "This course focuses on front-end web development using ReactJs library.",
+        "departmentId": 3
+    }
+]
